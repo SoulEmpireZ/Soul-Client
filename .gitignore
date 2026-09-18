@@ -1,0 +1,15 @@
+# Python / PyInstaller build artifacts
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Java runtimes and heavy client binaries (downloaded/built locally)
+runtimes/
+modpack/
+OneConfig/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
