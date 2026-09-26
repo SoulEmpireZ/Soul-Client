@@ -9,7 +9,7 @@ Soul Client is a custom Minecraft 1.8.9 PvP client built for maximum performance
 * **Bundled Mods & Configs:** Outfitted with OneConfig and pre-configured mods out of the box.
 
 ## 📥 Download & Installation
-1. Go to the **[Releases](https://github.com/SoulEmpireZ/Soul-Client.git/releases)** page.
+1. Go to the **[Releases](https://github.com/SoulEmpireZ/Soul-Client/releases/tag/V1.0.0)** page.
 2. Download `SoulClientV1.0.0_Setup.exe`.
 3. Run the installer (it installs straight to your Roaming folder automatically!).
 
